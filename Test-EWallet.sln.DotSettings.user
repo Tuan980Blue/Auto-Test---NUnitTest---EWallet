@@ -1,0 +1,32 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AAssert_002Ecs_002Fl_003AC_0021_003FUsers_003Ftuanm_003FAppData_003FRoaming_003FJetBrains_003FRider2024_002E2_003Fresharper_002Dhost_003FSourcesCache_003F46a322d26154b982566e1817203e5452c91223f93b0e392d9c5b4806696fdc1_003FAssert_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003ADefaultWait_00601_002Ecs_002Fl_003AC_0021_003FUsers_003Ftuanm_003FAppData_003FRoaming_003FJetBrains_003FRider2024_002E2_003Fresharper_002Dhost_003FDecompilerCache_003Fdecompiler_003F9fe322057e4b408a8fe6148f056d39de5c2000_003Fe9_003F4d92263e_003FDefaultWait_00601_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=36225a2c_002D238e_002D4df3_002Dba94_002D66441387c014/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test_CompleteWorkflow" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::F63240F7-0324-40FD-A7BA-7D73A147AC0D::net7.0::Test_EWallet.TestScript.WorkFlowTest.WorkFlowTest.Test_CompleteWorkflow&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=afed0732_002D6ccc_002D4cc7_002D8670_002D8762c7b10b32/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test_CompleteWorkflow #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::F63240F7-0324-40FD-A7BA-7D73A147AC0D::net7.0::Test_EWallet.TestScript.WorkFlowTest.WorkFlowTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::F63240F7-0324-40FD-A7BA-7D73A147AC0D::net7.0::Test_EWallet.Test_NapTien.ChuyenTienTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::F63240F7-0324-40FD-A7BA-7D73A147AC0D::net7.0::Test_EWallet.Test_NapTien.NapTienTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::F63240F7-0324-40FD-A7BA-7D73A147AC0D::net7.0::Test_EWallet.Test_NapTien.RutTienTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::F63240F7-0324-40FD-A7BA-7D73A147AC0D::net7.0::TicketPageTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	
+	
+	
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b4065a8d_002D0dab_002D49c7_002D8feb_002D93cdc6e75d45/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="ChuyenTienTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::F63240F7-0324-40FD-A7BA-7D73A147AC0D::net7.0::Test_EWallet.Test_NapTien.ChuyenTienTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::F63240F7-0324-40FD-A7BA-7D73A147AC0D::net7.0::Test_EWallet.TestScript.WorkFlowTest.WorkFlowTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::F63240F7-0324-40FD-A7BA-7D73A147AC0D::net7.0::Test_EWallet.Test_NapTien.NapTienTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e7ac2a9a_002Dcd2a_002D4233_002Db3df_002D6d31cb8b4524/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test_CompleteWorkflow #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::F63240F7-0324-40FD-A7BA-7D73A147AC0D::net7.0::Test_EWallet.TestScript.WorkFlowTest.WorkFlowTest.Test_CompleteWorkflow&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

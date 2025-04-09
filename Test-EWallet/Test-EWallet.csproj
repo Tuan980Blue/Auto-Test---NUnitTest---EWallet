@@ -1,0 +1,34 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net7.0</TargetFramework>
+        <RootNamespace>Test_EWallet</RootNamespace>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+
+        <IsPackable>false</IsPackable>
+        <IsTestProject>true</IsTestProject>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="DotNetSeleniumExtras.WaitHelpers" Version="3.11.0" />
+        <PackageReference Include="EPPlus" Version="7.0.0" />
+        <PackageReference Include="ExcelDataReader" Version="3.7.0" />
+        <PackageReference Include="ExcelDataReader.DataSet" Version="3.7.0" />
+        <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.7.1"/>
+        <PackageReference Include="NUnit" Version="3.13.3"/>
+        <PackageReference Include="NUnit3TestAdapter" Version="4.4.2"/>
+        <PackageReference Include="NUnit.Analyzers" Version="3.6.1"/>
+        <PackageReference Include="coverlet.collector" Version="3.2.0"/>
+        <PackageReference Include="Selenium.Support" Version="4.29.0" />
+        <PackageReference Include="Selenium.WebDriver" Version="4.29.0" />
+        <PackageReference Include="Selenium.WebDriver.ChromeDriver" Version="135.0.7049.4200" />
+        <PackageReference Include="Selenium.WebDriver.MSEdgeDriver" Version="134.0.3124.51" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Folder Include="FileExcels\" />
+      <Folder Include="TestScript\WorkFlowTest\" />
+    </ItemGroup>
+
+</Project>
